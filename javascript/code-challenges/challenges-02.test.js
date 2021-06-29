@@ -78,7 +78,7 @@ const forEachTwoToThe = (arr) => {
     let newValue=Math.pow(2,value);
     newArr.push(newValue);
   })
-  console.log(newArr);
+  return newArr;
   
 };
 
@@ -92,11 +92,12 @@ const mapTwoToThe = (arr) => {
   // Solution code here...
   
   let val;
-  
    arr.map(value=> {val=Math.pow(2,value)
-  return val;});
+    return val;
+  } );
+  
 };
-
+// mapTwoToThe([1,2,3]);
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
 
