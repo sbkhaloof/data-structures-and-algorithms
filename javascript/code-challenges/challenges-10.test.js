@@ -9,9 +9,10 @@ Write a function named returnTen, takes in a string and uses split and splice to
 
 function returnTen(str){
   // Solution code here...
-  let arr=str.split('');
-  arr.splice(0,(arr.length-10))
-  return arr;
+  let localArr=[];
+  localArr=str.split('');
+  localArr.splice(0,localArr.length-10);
+  return localArr;
 }
 
 /* ------------------------------------------------------------------------------------------------
