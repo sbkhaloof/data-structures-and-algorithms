@@ -12,6 +12,12 @@
 3. to string 
 + and test all above methods .
 
+### approach and efficiency
+1. read the requerment carefully 
+2. under stand the problem.
+3. try to solve it
+4. write the code and test it 
+
 # test result :
 ![](code-challange-5.png)
 ![](code-challange-05.png)
