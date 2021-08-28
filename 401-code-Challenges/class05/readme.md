@@ -19,3 +19,4 @@
 + I imagined how the results should be
 + I wrote the code
 + I made the tests
+![white board](code-challange-05.png)
