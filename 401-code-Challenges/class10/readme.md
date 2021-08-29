@@ -30,6 +30,8 @@ today our challenge is to implement the stack and queue using linkedlist and cra
 + dequeue: we will remove from the first (fifo) so check if the queue is empty then return messege the queue is empty otherwise remove first node.
 +first thing check if the stack is empty or not if not empty return the top value else throw an error stack is empty.
 + isEmpty : if empty return true otherwise return false. 
+## Whiteboard Process
+![](whiteboard-10.PNG)
 
 ## test result 
 ![](code-challenge10.PNG)
