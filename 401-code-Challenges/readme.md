@@ -14,10 +14,5 @@
 |        Code11            |[Implement Queue using 2 Stacks.](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class11)|
 |        Code12            |[stack-and-queue2](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class12)   |
 |        Code13            |[Multi-bracket](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class13)      |
-|        Code15            |[trees](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class15)              |          
-
-
-
-
-
-
+|        Code14            |[get max-stack](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class14)      |
+|        Code15            |[trees](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class15)              |
