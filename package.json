@@ -1,0 +1,32 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "See [setup instructions](https://codefellows.github.io/setup-guide/code-301/3-code-challenges), in the Code 301 Setup Guide.",
+  "main": "index.js",
+  "scripts": {
+   
+    "get-challenge": "`which bash` ./code-challenges/bin/get-challenge.sh",
+    "shift-dir": "`which bash` ./code-challenges/bin/shift-dir.sh",
+    "clean-up": "`which bash` ./code-challenges/bin/clean-up.sh",
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbkhaloof/data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbkhaloof/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/sbkhaloof/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6",
+    "mustache": "^4.2.0",
+    "supertest": "^6.1.6"
+  }
+}
