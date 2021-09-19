@@ -18,3 +18,4 @@
 |        Code16            |[maxValue_binaryTree](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class16)|
 |        Code17            |[Breadth-first Traversal](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class17)|
 |        Code18            |[FizzBuzzTree](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class18)       |
+|        Code26            |[insertonSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class26)       |
