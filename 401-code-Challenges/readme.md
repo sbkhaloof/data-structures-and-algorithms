@@ -1,6 +1,9 @@
 # 401-Clode-Challenges
+
 ## 401 Data Structures, Code Challenges
+
 ### Table of Code Challenge files
+
 |       code file          |                                                    link                                                                |
 |------------------------- |:-------------------------------------------------------------------------------------------------------------------- : |
 |        Code01            |[Reverse Array](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class01)      |
@@ -20,6 +23,8 @@
 |        Code17            |[Breadth-first Traversal](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class17)|
 |        Code18            |[FizzBuzzTree](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class18)       |
 |        Code26            |[insertonSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class26)       |
+|        Code27            |[mergeSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class27)          |
+
 
 
 
