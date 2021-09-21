@@ -23,3 +23,4 @@
 |        Code18            |[FizzBuzzTree](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class18)       |
 |        Code26            |[insertonSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class26)       |
 |        Code27            |[mergeSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class27)          |
+|        Code28            |[quickSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class28)          |
