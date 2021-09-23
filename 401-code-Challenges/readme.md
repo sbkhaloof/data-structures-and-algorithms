@@ -24,3 +24,4 @@
 |        Code26            |[insertonSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class26)       |
 |        Code27            |[mergeSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class27)          |
 |        Code28            |[quickSort](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class28)          |
+|        Code30            |[hashTable](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class30)          |
