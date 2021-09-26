@@ -18,6 +18,8 @@
 
 
 ## Solution
-<!-- Show how to run your code, and examples of it in action -->
+<!-- Show how to run your code, and examples of it in action --
+https://medium.com/@caymanbruce/finding-duplicate-characters-in-a-string-in-javascript-94e2cb23ab5e>
 
 ![](result-code31.PNG)
+ 
