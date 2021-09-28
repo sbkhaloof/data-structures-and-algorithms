@@ -28,5 +28,8 @@
 |        Code30            |[hashTable](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class30)          |
 |        Code31            |[findRepeatedWord](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class31)   |
 |        Code32            |[treeIntersection](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class32)   |
+|        Code33            |[leftJoin](https://github.com/sbkhaloof/data-structures-and-algorithms/tree/main/401-code-Challenges/class33)   |
+
+
 
 
