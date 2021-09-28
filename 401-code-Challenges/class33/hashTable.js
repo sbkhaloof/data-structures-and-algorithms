@@ -61,6 +61,32 @@ class HashTable {
         }
     }
 
+    // create function leftJoin take two arrgument 
+    leftJoin(firstHashTable, secondHashTable) {
+
+        let finalResult = [];// declear empty array to return the result
+        let value2 = null;
+        // loop through first hash table and push the key and value to thefinalresult array
+        for (let i = 0; i < firstHashTable.buckets.length; i++) {
+          if (firstHashTable.buckets[i]) {
+           const leftKey = Object.keys(firstHashTable.buckets[i].head.value)[0];
+            const leftvalue1 = Object.values(firstHashTable.buckets[i].head.value)[0];
+           // check if the second hash table have the match key with the first hash table
+            if (secondHashTable.contains(leftKey)) {
+                // find the value of this key  to add it to the same key in final result array
+              value2 = Object.values(secondHashTable.buckets[i].head.value)[0];
+            } else {
+                // if there isnt key match with this key add value null to this key 
+              value2 = null;
+            }
+            // push for each key in lfirst hash table 2 values 
+            finalResult.push([leftKey,leftvalue1,value2]);
+          }
+        }
+        // now return the final result array 
+        return finalResult;
+      };
+    
 
     
 }
